@@ -21,7 +21,7 @@ namespace ConsoleApplication1
         public int Roznica(int b, int a)
         {
             int roznica = b - a;
-            return roznica;
+            return roznica; 
         }
     }
 }
