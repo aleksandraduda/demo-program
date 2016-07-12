@@ -24,11 +24,7 @@ namespace ConsoleApplication1
             return roznica;
         }
         
-         public int Mnozenie(int b, int a)
-        {
-            int mnozenie = a*b;
-            return mnozenie;
-        }
+   
         
     }
 }
