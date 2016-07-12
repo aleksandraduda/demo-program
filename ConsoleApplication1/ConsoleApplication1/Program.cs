@@ -16,7 +16,7 @@ namespace ConsoleApplication1
             int suma = a + b;
             return suma;
         }
-
+// jjkkk
 
         public int Roznica(int b, int a)
         {
