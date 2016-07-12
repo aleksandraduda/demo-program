@@ -8,9 +8,23 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)
+        
+
+        
+            public int Suma(int a, int b)
         {
-            // komentarz
+            int sumaa = a + b;
+            return sumaa;
+        }
+
+
+        public int Roznica(int b, int a)
+        {
+            int roznicaa = b - a;
+            return roznicaa;
         }
     }
 }
+
+ 
+
