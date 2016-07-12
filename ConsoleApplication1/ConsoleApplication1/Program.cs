@@ -13,15 +13,15 @@ namespace ConsoleApplication1
         
             public int Suma(int a, int b)
         {
-            int sumaa = a + b;
-            return sumaa;
+            int suma = a + b;
+            return suma;
         }
 
 
         public int Roznica(int b, int a)
         {
-            int roznicaa = b - a;
-            return roznicaa;
+            int roznica = b - a;
+            return roznica;
         }
     }
 }
