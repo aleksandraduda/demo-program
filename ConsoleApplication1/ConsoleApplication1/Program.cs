@@ -23,9 +23,16 @@ namespace ConsoleApplication1
             int roznica = b - a;
             return roznica;
         }
-        
-   //kkkkfffff
-        
+
+        //kkkkfffff
+        public int Roznic2a(int b, int a)
+        {
+            int roznica = b - a;
+            return roznica;
+        }
+
+        //kkkkfffff
+
     }
 }
 
