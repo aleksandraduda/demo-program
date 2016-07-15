@@ -24,7 +24,7 @@ namespace ConsoleApplication1
             return roznica;
         }
         
-   //kkkk
+   //kkkkfffff
         
     }
 }
