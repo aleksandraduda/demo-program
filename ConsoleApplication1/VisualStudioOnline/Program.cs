@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace ProjectVSonline
 {
-    class Program
-    {
-        
-
-        
+    public class Program
+    {        
+               
             public int Suma(int a, int b)
         {
             int suma = a + b;
