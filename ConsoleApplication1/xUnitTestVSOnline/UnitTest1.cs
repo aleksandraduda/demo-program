@@ -19,7 +19,7 @@ namespace UnitTestProject1
 
             int actualSum = program.Suma(c, d);
             int actulRozn = program.Roznica(d, c);
-            //zmiana
+            //zmiana 
 
             Assert.Equal(4, actulRozn);
             Assert.Equal(6, actualSum);
