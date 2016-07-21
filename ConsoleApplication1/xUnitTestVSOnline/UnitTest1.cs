@@ -34,7 +34,7 @@ namespace UnitTestProject1
 
             int actualSum = program.Suma(c, d);
            
-            //zmiana
+            
 
            
             Assert.Equal(6, actualSum);
