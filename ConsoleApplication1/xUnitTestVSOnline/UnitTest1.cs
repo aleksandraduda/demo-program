@@ -39,8 +39,24 @@ namespace UnitTestProject1
            
             Assert.Equal(6, actualSum);
         }
-     
-        
-        
+
+
+        [Fact]
+        public void Roznica()
+        {
+            var program = new Program();
+            int c = 1;
+            int d = 7;
+
+
+            int actulRozn = program.Roznica(d, c);
+            //zmiana
+
+            Assert.Equal(6, actulRozn);
+
+        }
+
+
+
     }
 }
