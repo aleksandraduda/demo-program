@@ -9,7 +9,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
 
-
+        // komentarz
         [Fact]
         public void Suma()
         {
@@ -34,7 +34,7 @@ namespace UnitTestProject1
 
             int actualSum = program.Suma(c, d);
            
-            
+             
 
            
             Assert.Equal(6, actualSum);
