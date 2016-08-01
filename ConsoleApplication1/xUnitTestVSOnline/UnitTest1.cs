@@ -37,7 +37,7 @@ namespace UnitTestProject1
              
 
            
-            Assert.Equal(6, actualSum);
+            Assert.Equal(7, actualSum);
         }
 
 
