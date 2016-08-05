@@ -22,14 +22,9 @@ namespace ProjectVSonline
             return roznica;
         }
 
-        //kkkkfffff
-        public int Roznic2a(int b, int a)
-        {
-            int roznica = b - a;
-            return roznica;
-        }
+     
 
-        //kkkkfffff
+       
 
     }
 }
