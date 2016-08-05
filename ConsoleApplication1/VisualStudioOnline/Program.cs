@@ -29,7 +29,7 @@ namespace ProjectVSonline
             return roznica;
         }
 
-        //kkkkfffff
+        //ONLNE
 
     }
 }
