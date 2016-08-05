@@ -20,11 +20,16 @@ namespace ProjectVSonline
         {
             int roznica = b - a;
             return roznica;
-        } 
+        }
 
-     
+        public int Mnozenie(int b, int a)
+        {
+            int iloczyn = a*b;
+            return iloczyn;
+        }
 
-       
+
+
 
     }
 }
