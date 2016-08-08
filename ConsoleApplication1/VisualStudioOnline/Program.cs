@@ -32,8 +32,7 @@ namespace ProjectVSonline
         }
 
 
-        //vkjdfbvjkebvfdfb
-
+        //komnetarz test
     }
 }
 
